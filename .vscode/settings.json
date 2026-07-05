@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/968df303-8e0b-4dee-b456-9ec4692de68a/resourceGroups/appsvc_linux_southindia/providers/Microsoft.Web/sites/Madhavifund",
+    "appService.deploySubpath": "."
+}
