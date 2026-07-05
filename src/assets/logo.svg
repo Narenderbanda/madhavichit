@@ -1,0 +1,26 @@
+<svg viewBox="0 0 600 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="220" fill="#FFFFFF"/>
+
+  <!-- Trunk: stacked coins -->
+  <ellipse cx="105" cy="175" rx="26" ry="9" fill="#7A1F33"/>
+  <ellipse cx="105" cy="163" rx="22" ry="8" fill="#8F2740"/>
+  <ellipse cx="105" cy="152" rx="18" ry="7" fill="#7A1F33"/>
+
+  <!-- Canopy: cluster of coins forming growth crown -->
+  <circle cx="105" cy="95" r="20" fill="#C9A227"/>
+  <circle cx="80" cy="110" r="15" fill="#E7C766"/>
+  <circle cx="130" cy="110" r="15" fill="#E7C766"/>
+  <circle cx="70" cy="85" r="12" fill="#C9A227"/>
+  <circle cx="140" cy="85" r="12" fill="#C9A227"/>
+  <circle cx="105" cy="65" r="14" fill="#E7C766"/>
+
+  <!-- Rupee glyph in the topmost coin -->
+  <text x="105" y="72" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="bold" fill="#7A1F33" text-anchor="middle">₹</text>
+
+  <!-- Wordmark -->
+  <text x="215" y="105" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="bold" fill="#7A1F33">MADHAVI</text>
+  <text x="215" y="140" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="6" fill="#C9A227">CHIT FUND</text>
+
+  <rect x="216" y="150" width="330" height="2.5" fill="#C9A227"/>
+  <text x="215" y="172" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#7A1F33">GROW TOGETHER · PROSPER TOGETHER</text>
+</svg>
